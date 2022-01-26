@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Samuel Goldthreate
  */
 
 public class Class2 {
